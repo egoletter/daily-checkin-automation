@@ -1,0 +1,6 @@
+*.traineddata
+*.env
+*.ghp
+
+node_modules/
+test-login/
